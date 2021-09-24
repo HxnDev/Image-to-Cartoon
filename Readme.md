@@ -13,7 +13,7 @@ For this project, you only need:
 ## OpenCV:
 This is a Computer vision package that makes its easy to run Image processing and AI functions. At the core it uses OpenCV and Mediapipe libraries.
 
-It can be installed using "pip install cvzone"
+It can be installed using "pip install opencv-python"
 
 ## Contact Information:
 For any further queries, feel free to contact me at:
